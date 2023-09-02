@@ -31,3 +31,10 @@ A aplicação continuará executando até que você escolha sair.
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias ou correções.
 
+## Contato
+Não hesite em entrar em contato comigo:
+
+- Nome: Gustavo Priori de Morais
+- E-mail: gustavomorais686@gmail.com
+- GitHub: https://github.com/Guustaaf02
+
